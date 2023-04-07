@@ -8,10 +8,13 @@
     width: 40%;
     background-color: aquamarine;
     font-family: Arial, Helvetica, sans-serif;
-    margin: 10px;
+    border: 3px solid green;
     padding: 10px;
 }
 
 .derecha{
     font-family: Arial, Helvetica, sans-serif;
+    background-color: gray;
+    padding: 10px;
+    border: 3px solid black;
 }
